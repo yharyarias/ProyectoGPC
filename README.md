@@ -1,2 +1,2 @@
-# ProyectoGPC
-¿Dónde está la bolita?
+# GPC
+Laboratorios
